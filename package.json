@@ -42,7 +42,7 @@
     "gulp-wrap": "^0.3.0",
     "joi": "^4.6.2",
     "mocha": "^1.21.4",
-    "mongodb": "^1.4.8",
+    "mongodb": "^3.6.1",
     "mongoose": "^3.8.14",
     "morgan": "^1.2.2",
     "newrelic": "^1.11.1",
